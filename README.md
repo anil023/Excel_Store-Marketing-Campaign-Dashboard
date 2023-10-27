@@ -1,4 +1,4 @@
-# Customer Analysis for a Store
+# Sales and Customer Analysis for a Store
 ## Define the Question
 Data from a superstore(iFood) marketing campaign is accessible on Kaggle [(link)](https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset "Kaggle Link to the Dataset"). This repository documents the data analysis conducted on this available dataset using Microsoft Excel. The primary objectives of this analysis include identifying customer groups for future customer acquisition campaigns that could help maximize sales.
 
@@ -9,9 +9,9 @@ The dataset served as the cornerstone for performing data analysis and generatin
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --->
 ## Collecting Details:
 - **dictionary.png** : describes the variables/column names present in the raw data file
-  ![dictionary.png](https://github.com/anil023/Store-Marketing-Campaign/blob/bf3c72c976ca68970ed9146b3c0f720883c6c2be/dictionary.png "Link to the File")
-- **[ifood_df.csv](https://github.com/anil023/Store-Marketing-Campaign/blob/bf3c72c976ca68970ed9146b3c0f720883c6c2be/ifood_df.csv "Link to the File")** : raw data file exported from Kaggle
-- **[Store Marketing Campaign Analysis.xlsx](https://github.com/anil023/Store-Marketing-Campaign/blob/bf3c72c976ca68970ed9146b3c0f720883c6c2be/Store%20Marketing%20Campaign%20Dashboard.xlsx "Link to the File")** : excel encompassing all the data analysis and visualizations
+  ![dictionary.png](https://github.com/anil023/Sales-and-Customer-Analysis-for-a-Store/blob/b6edf445a8989a7bf821f568acdb719f918787f5/dictionary.png "Link to the File")
+- **[ifood_df.csv](https://github.com/anil023/Sales-and-Customer-Analysis-for-a-Store/blob/b6edf445a8989a7bf821f568acdb719f918787f5/ifood_df.csv "Link to the File")** : raw data file exported from Kaggle
+- **[Sales and Customer Analysis Dashboard.xlsx](https://github.com/anil023/Sales-and-Customer-Analysis-for-a-Store/blob/b6edf445a8989a7bf821f568acdb719f918787f5/Sales%20and%20Customer%20Analysis%20Dashboard.xlsx "Link to the File")** : excel encompassing all the data analysis and visualizations
      - sheet **"rawdata"** is the filtered and cleaned datset
      - sheet **"tables"** contains the tables used to link the sales products and channels
      - sheet **"Data Analysis"** contains tables used in visualizations etc
